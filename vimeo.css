@@ -1,0 +1,189 @@
+body{
+    margin: 0%;
+}
+.body{
+    width: 100%;
+    height: 800px;
+    background-color: #fff;
+    float: left;
+}
+.header{
+    width: 100%;
+    height: 96px;
+    background-color: #fff;
+    float: left;
+    position: fixed;
+}
+.vimeo{
+    width: 164px;
+    height: 133px;
+    margin-top: -37px;
+    float: left;
+    cursor: pointer;
+}
+.fa-chevron-down{
+    cursor: pointer;
+}
+.why{
+    float: left;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+.features{
+    float: left;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.Resources{
+    float: left;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.watch{
+    float: left;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.pricing{
+    float: left;
+    font-weight: bold;
+    margin-top: 22px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.fa-search{
+    float: left;
+    color: #343538;
+    margin-top: 22px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+.login{
+    float: left;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 22px;
+    margin-left: 30px;
+    color: black;
+    cursor: pointer;
+}
+.butjoin{
+    float: left;
+    font-weight: bold;
+    background-color: #fff;
+    color: black;
+    border-color: #e6e8ed;
+    border-width: 1px;
+    height: 40px;
+    border-radius: 4px;
+    width: 90px;
+    margin-top: 14px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.butjoin:hover{
+    border-color: gray;
+}
+.butnew{
+    float: left;
+    font-weight: bold;
+    background-color: #343538;
+    color: #fff;
+    border: 0px;
+    width: 120px;
+    height: 40px;
+    border-radius: 4%;
+    margin-left: 435px;
+    margin-top: 14px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.butnew:hover{
+    background-color: black;
+}
+.main-body{
+ 
+}
+.block1{
+    width: 100%;
+    height: 275px;
+    background-color: #fff;
+    float: left;
+    font-size: 104px;
+    font-weight: 700;
+    text-align: -webkit-center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 150px;
+}
+.block2{
+    float: left;
+    width: 100%;
+    height: 75px;
+    background-color: #fff;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 22px;
+}
+.block3{
+    float: left;
+    width: 100%;
+    height: 75px;
+    background-color: #fff;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 22px;
+    margin-top: 20px;
+}
+.first-button{
+    height: 55px;
+    width: 205px;
+    border-radius: 3%;
+    border-width: 0px;
+    background-color: #26b9f1;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+}
+.first-button:hover{
+    background-color: #89C4F4;
+}
+.second-button{
+    height: 55px;
+    width: 205px;
+    margin-left: 20px;
+    border-radius: 3%;
+    border-width: 1px;
+    cursor: pointer;
+    background-color: #fff;
+    color: #473d3d;
+    border-color: #deddd9;
+    font-size: 15px;
+    font-weight: bold;
+}
+.second-button:hover{
+border-color: black;
+}
+.block4{
+   
+}
+.img{
+    width: 100%;
+    margin-top: 10px;
+}
+.block5{
+    width: 100%;
+    margin-top: 125px;
+    font-weight: 600;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
